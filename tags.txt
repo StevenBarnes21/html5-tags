@@ -4,3 +4,4 @@
 
 <head> - This is the opening tag where all the details about the webpage should be put that are necessary for the running of the page but do not need to be displayed on the screen. This is where you put things like meta data and links to stylesheets and scripts. This is not a self closing tag and needs to be closed with a closing tag. </head>
 
+Deciding if CSS should also be included in this file. Just testing out how branching works really ;)
