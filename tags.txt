@@ -1,0 +1,3 @@
+<!DOCTYPE html> - This tag is used to tell the browser which type of file to expect. In this case it is telling the browser to expect HTML5.
+
+<html> - This is the opening tag within which, all of your html markup will be placed either directly (children) or indirectly (grandchildren). This is not a self closing tag so there is also a closing tag which looks like this </html> 
